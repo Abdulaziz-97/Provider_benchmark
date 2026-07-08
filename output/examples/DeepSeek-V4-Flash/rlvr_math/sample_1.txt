@@ -1,0 +1,7 @@
+{
+  "id": "math_1516823398",
+  "domain": "math",
+  "difficulty_tag": "easy",
+  "prompt": "إذا كان عمر خالد 12 سنة، وعمر أخته مريم نصف عمره، فكم مجموع عمريهما؟",
+  "ground_truth_answer": 18
+}

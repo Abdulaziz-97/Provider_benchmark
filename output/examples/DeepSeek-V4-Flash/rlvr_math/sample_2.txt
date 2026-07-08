@@ -1,0 +1,7 @@
+{
+  "id": "math_1443634094",
+  "domain": "math",
+  "difficulty_tag": "easy",
+  "prompt": "في بستان، يوجد 47 شجرة تفاح و 38 شجرة برتقال. كم شجرة في البستان؟",
+  "ground_truth_answer": 85
+}

@@ -1,0 +1,7 @@
+{
+  "id": "math_ar_001",
+  "domain": "math",
+  "difficulty_tag": "easy",
+  "prompt": "اشترى خالد 5 كتب، سعر كل كتاب 12 ريالاً. ما هو المبلغ الإجمالي الذي دفعه خالد؟",
+  "ground_truth_answer": 60
+}
